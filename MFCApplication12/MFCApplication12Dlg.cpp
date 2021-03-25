@@ -1,7 +1,7 @@
 
 // MFCApplication12Dlg.cpp : implementation file
-//t1
-
+//t1 t1 t1  t1
+ 
 #include "stdafx.h"
 #include "MFCApplication12.h"
 #include "MFCApplication12Dlg.h"
