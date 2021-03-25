@@ -1,6 +1,6 @@
 
 // MFCApplication12Dlg.cpp : implementation file
-//rrrrr
+// t222
 
 #include "stdafx.h"
 #include "MFCApplication12.h"
